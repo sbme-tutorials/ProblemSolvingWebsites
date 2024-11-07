@@ -56,6 +56,7 @@
 # Summer Schools
 
 ### General Summer Schools
+* [EPFL](https://summer.epfl.ch/) - [Program Description](https://www.epfl.ch/schools/sv/education/summer-research-program/program-description/)
 * [Jyväskylä Summer School](https://www.jyu.fi/en/study-with-us/summer-and-winter-schools/jyvaskyla-summer-school) *Online*
 * [Machine Learning Summer School](http://mlss.cc/)
 * [Harvard Summer School](https://summer.harvard.edu/) *On Premises - I am not sure if you can apply for funding when you got accepted*
