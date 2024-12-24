@@ -49,6 +49,7 @@
 
 # Hackathons
 * [Nasa Space Apps](https://www.spaceappschallenge.org/)
+* MEXA: [Rules](https://github.com/neuromatch/mexa-hack/blob/main/README.md) - [Website](https://mexa.app/)
 * STP Mackathon
 * [ArabYouthHackathon](https://arabyouthhackathon.com/)
 * [Vodafone AI Hackathon](https://aihackathon.vodafone.com.eg/)
